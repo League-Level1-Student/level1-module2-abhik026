@@ -17,6 +17,7 @@ public class SeaCreatureRunner {
 		Squidward.getName();
 		Squidward.eat();
 		Squidward.laugh();
+		
 	}
 
 }
